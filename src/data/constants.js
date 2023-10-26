@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SKumar425",
     resume:
-      "https://drive.google.com/file/d/1RVa5KYn5ivGX_yTaqhLgEsZDQf1nTbl-/view?usp=drive_link",
+      "https://drive.google.com/file/d/1YHfGjn_utInA-tP25CaKelwThnAoHdu0/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/swadhinkumarsenapati/",
     twitter: "https://twitter.com/Swadhin23732862",
     insta: "https://www.instagram.com/s_w_a_d_h_i_n45/",
