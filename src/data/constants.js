@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SKumar425",
     resume:
-      "https://drive.google.com/file/d/1YHfGjn_utInA-tP25CaKelwThnAoHdu0/view?usp=drive_link",
+      "https://drive.google.com/file/d/15zSi9aV3gNfUm4TuBGCJrSZiVr_zcdPg/view",
     linkedin: "https://www.linkedin.com/in/swadhinkumarsenapati/",
     twitter: "https://twitter.com/Swadhin23732862",
     insta: "https://www.instagram.com/s_w_a_d_h_i_n45/",
@@ -150,6 +150,23 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
+      img: "https://drive.google.com/file/d/10wwVM-JBhS447dQhL_4Pe48siiFswFCV/view?usp=drive_link",
+      role: "Software Engineer",
+      company: "NYXify Technologies pvt ltd",
+      date: "September 2023 - Present",
+      desc: "",
+      skills: [
+        
+        "JavaScript",
+        "React Js",
+        "Next js",
+        "Communication",
+        "Github",
+        "tailwind css"
+      ],
+    },
+    {
+      id: 1,
       img: "https://www.kodnest.com/wp-content/uploads/2022/12/3.png",
       role: "Student Intern Full Stack Development",
       company: "KodNest",
@@ -169,7 +186,7 @@ export const Bio = {
       ],
     },
     {
-      id: 1,
+      id: 2,
       img: "https://letsgrowmore.in/wp-content/uploads/2021/05/Artboard-1-1-removebg-preview-e1645900071758.jpg",
       role: "Web Development Intern",
       company: "LetsGrowMore",
@@ -186,7 +203,7 @@ export const Bio = {
       ],  
     },
     {
-      id: 2,
+      id: 3,
       img: "png-clipart-logo-community-text-logo.png",
       role: "Frontend Developer Intern",
       company: "ASReaPr pvt ltd",
